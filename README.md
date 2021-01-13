@@ -1,1 +1,2 @@
 # reGeorg
+for linux&windows
